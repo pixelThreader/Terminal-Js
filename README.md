@@ -21,12 +21,6 @@ To get started, include the library in your project:
 <script src="path/to/terminal.js"></script>
 ```
 
-Or, install it via npm:
-
-```bash
-npm install terminal.js
-```
-
 ## Usage
 
 ### Basic Setup
